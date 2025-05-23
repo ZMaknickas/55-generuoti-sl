@@ -1,0 +1,16 @@
+{
+  "name": "55-generuoti-sl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "slpt": "dead-server --host=localhost --port5580",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "webz (https://github.com/ZMaknickas)",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
